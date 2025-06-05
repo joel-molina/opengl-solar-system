@@ -1,5 +1,4 @@
 ## Dependencies
-The only libraries used are those utilized in the class.
 assimp
 opengl32
 glew32.lib
